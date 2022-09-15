@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hxriprxsxd(x==a)
-- 👀 I’m interested in full stack web development,mobile app development
-- 🌱 I’m currently learning java moreover am a bsc student 😁
-- 💞️ I’m looking to collaborate on opensource projects
+- 👀 I’m interested in full stack web development and specialised in MERN stack
+- 🌱 I’m currently learning MERN stack development
 - 📫 How to reach me ...#hariprasad72172@gmail.om
 
 <!---
