@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hxriprxsxd(x==a)
 - 👀 I’m interested in full stack web development and specialised in MERN stack
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m currently working as a associate software engineer
 - 📫 How to reach me ...#hariprasad72172@gmail.om
 
 <!---
