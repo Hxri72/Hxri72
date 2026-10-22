@@ -8,7 +8,7 @@ I build full-stack web products with React, Node.js and MongoDB, and I've spent 
 - 💼 Previously Software Engineer at Haspaces Technology Solutions (SkillKeepr)
 - 🎓 MCA, Amity University · BSc Physics
 - 🌱 Currently learning Next.js and sharpening TypeScript
-- 📫 Reach me: hariprasad72172@gmail.com · [LinkedIn](https://www.linkedin.com/in/hari-prasad-1636861b2) · [Portfolio](https://hariprasad-portfolio.onrender.com/)
+- 📫 Reach me: hariprasad72172@gmail.com · [LinkedIn](https://www.linkedin.com/in/hariprasad-k-h-1636861b2) · [Portfolio](https://hariprasad-portfolio.onrender.com/)
 
 ## 🛠 Tech stack
 
