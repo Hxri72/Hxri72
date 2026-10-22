@@ -31,8 +31,3 @@ I build full-stack web products with React, Node.js and MongoDB, and I've spent 
 | [portfolio-web-app](https://github.com/Hxri72/portfolio-web-app) | My developer portfolio — responsive, dark/light theme, backed by its own API | React + Vite, Node/Express, MongoDB |
 | [ai-productivity-management-system](https://github.com/Hxri72/ai-productivity-management-system) | AI-powered task manager with smart prioritisation, analytics dashboard and productivity recommendations | MERN, OpenAI API |
 | [interview-prep-hub](https://github.com/Hxri72/interview-prep-hub) | App for structured interview preparation | TypeScript |
-
-## 📊 GitHub stats
-
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hxri72&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxri72&layout=compact&theme=tokyonight&hide_border=true)
