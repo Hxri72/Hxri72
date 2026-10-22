@@ -12,7 +12,7 @@ I build full-stack web products with React, Node.js and MongoDB, and I've spent 
 
 ## 🛠 Tech stack
 
-**Frontend:** React.js, Redux, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI, Bootstrap
+**Frontend:** React.js, Redux, TypeScript, JavaScript (ES6+), Tailwind CSS, Mantine UI
 
 **Backend:** Node.js, Express.js, REST APIs, JWT auth, WebSockets, Stripe, Jest, Python (Flask / FastAPI)
 
